@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 4e1f755d35195df43b556c0a869c9111
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Door_L
+    100004: Door_R
+    100006: DoorRear_L
+    100008: DoorRear_R
+    100010: Needle_Fuel
+    100012: Needle_RPM
+    100014: Needle_Speedometer
+    100016: SteeringWheel
+    100018: Wheel_FL
+    100020: Wheel_FR
+    100022: Wheel_RL
+    100024: Wheel_RR
+    400000: //RootNode
+    400002: Door_L
+    400004: Door_R
+    400006: DoorRear_L
+    400008: DoorRear_R
+    400010: Needle_Fuel
+    400012: Needle_RPM
+    400014: Needle_Speedometer
+    400016: SteeringWheel
+    400018: Wheel_FL
+    400020: Wheel_FR
+    400022: Wheel_RL
+    400024: Wheel_RR
+    2100000: RCA1
+    2100002: TurnSignalLeft
+    2100004: TurnSignalRight
+    2100006: BrakeLight
+    2100008: ReverseLight
+    2100010: Headlights
+    2100012: Mirror
+    2100014: Glass
+    2300000: //RootNode
+    2300002: Door_L
+    2300004: Door_R
+    2300006: DoorRear_L
+    2300008: DoorRear_R
+    2300010: Needle_Fuel
+    2300012: Needle_RPM
+    2300014: Needle_Speedometer
+    2300016: SteeringWheel
+    2300018: Wheel_FL
+    2300020: Wheel_FR
+    2300022: Wheel_RL
+    2300024: Wheel_RR
+    3300000: //RootNode
+    3300002: Door_L
+    3300004: Door_R
+    3300006: DoorRear_L
+    3300008: DoorRear_R
+    3300010: Needle_Fuel
+    3300012: Needle_RPM
+    3300014: Needle_Speedometer
+    3300016: SteeringWheel
+    3300018: Wheel_FL
+    3300020: Wheel_FR
+    3300022: Wheel_RL
+    3300024: Wheel_RR
+    4300000: CityCar03
+    4300002: SteeringWheel
+    4300004: Wheel_FL
+    4300006: Wheel_FR
+    4300008: Wheel_RL
+    4300010: Wheel_RR
+    4300012: Door_L
+    4300014: DoorRear_L
+    4300016: Door_R
+    4300018: DoorRear_R
+    4300020: Needle_Fuel
+    4300022: Needle_RPM
+    4300024: Needle_Speedometer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrakeLight
+    second: {fileID: 2100000, guid: 593d6a2cc87cf6b488ed31bd0f804b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 2dec66236128d674fbff78868093ca0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headlights
+    second: {fileID: 2100000, guid: 81cbd0a8a6b12cb40acfa055750cc1ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: c34c6fd38bf86a047836f60e656e7d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RCA1
+    second: {fileID: 2100000, guid: 2ab0d0f6c12d51e488fd32264e3c86cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReverseLight
+    second: {fileID: 2100000, guid: 927e79c94dee80a4b82b895cfe149c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TurnSignalLeft
+    second: {fileID: 2100000, guid: ebbbbb390bdfb9345bf0af66c5d822cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TurnSignalRight
+    second: {fileID: 2100000, guid: d3af6a6a103be5b429ff6b9629fd5818, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

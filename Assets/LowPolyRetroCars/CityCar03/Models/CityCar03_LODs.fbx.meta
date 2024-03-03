@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 5beb7a0d4c40f10438be5b3c45f754b0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CityCar03_LOD0
+    100002: CityCar03_LOD1
+    100004: CityCar03_LOD2
+    100006: //RootNode
+    100008: Door_L_LOD0
+    100010: Door_L_LOD1
+    100012: Door_R_LOD0
+    100014: Door_R_LOD1
+    100016: DoorRear_L_LOD0
+    100018: DoorRear_L_LOD1
+    100020: DoorRear_R_LOD0
+    100022: DoorRear_R_LOD1
+    100024: Needle_Fuel_LOD0
+    100026: Needle_RPM_LOD0
+    100028: Needle_Speedometer_LOD0
+    100030: SteeringWheel_LOD0
+    100032: SteeringWheel_LOD1
+    100034: Wheel_FL_LOD0
+    100036: Wheel_FL_LOD1
+    100038: Wheel_FL_LOD2
+    100040: Wheel_FR_LOD0
+    100042: Wheel_FR_LOD1
+    100044: Wheel_FR_LOD2
+    100046: Wheel_RL_LOD0
+    100048: Wheel_RL_LOD1
+    100050: Wheel_RL_LOD2
+    100052: Wheel_RR_LOD0
+    100054: Wheel_RR_LOD1
+    100056: Wheel_RR_LOD2
+    400000: CityCar03_LOD0
+    400002: CityCar03_LOD1
+    400004: CityCar03_LOD2
+    400006: //RootNode
+    400008: Door_L_LOD0
+    400010: Door_L_LOD1
+    400012: Door_R_LOD0
+    400014: Door_R_LOD1
+    400016: DoorRear_L_LOD0
+    400018: DoorRear_L_LOD1
+    400020: DoorRear_R_LOD0
+    400022: DoorRear_R_LOD1
+    400024: Needle_Fuel_LOD0
+    400026: Needle_RPM_LOD0
+    400028: Needle_Speedometer_LOD0
+    400030: SteeringWheel_LOD0
+    400032: SteeringWheel_LOD1
+    400034: Wheel_FL_LOD0
+    400036: Wheel_FL_LOD1
+    400038: Wheel_FL_LOD2
+    400040: Wheel_FR_LOD0
+    400042: Wheel_FR_LOD1
+    400044: Wheel_FR_LOD2
+    400046: Wheel_RL_LOD0
+    400048: Wheel_RL_LOD1
+    400050: Wheel_RL_LOD2
+    400052: Wheel_RR_LOD0
+    400054: Wheel_RR_LOD1
+    400056: Wheel_RR_LOD2
+    2100000: RCA1
+    2100002: Glass
+    2100004: TurnSignalLeft
+    2100006: TurnSignalRight
+    2100008: BrakeLight
+    2100010: ReverseLight
+    2100012: Headlights
+    2100014: Mirror
+    2300000: CityCar03_LOD0
+    2300002: CityCar03_LOD1
+    2300004: CityCar03_LOD2
+    2300006: Door_L_LOD0
+    2300008: Door_L_LOD1
+    2300010: Door_R_LOD0
+    2300012: Door_R_LOD1
+    2300014: DoorRear_L_LOD0
+    2300016: DoorRear_L_LOD1
+    2300018: DoorRear_R_LOD0
+    2300020: DoorRear_R_LOD1
+    2300022: Needle_Fuel_LOD0
+    2300024: Needle_RPM_LOD0
+    2300026: Needle_Speedometer_LOD0
+    2300028: SteeringWheel_LOD0
+    2300030: SteeringWheel_LOD1
+    2300032: Wheel_FL_LOD0
+    2300034: Wheel_FL_LOD1
+    2300036: Wheel_FL_LOD2
+    2300038: Wheel_FR_LOD0
+    2300040: Wheel_FR_LOD1
+    2300042: Wheel_FR_LOD2
+    2300044: Wheel_RL_LOD0
+    2300046: Wheel_RL_LOD1
+    2300048: Wheel_RL_LOD2
+    2300050: Wheel_RR_LOD0
+    2300052: Wheel_RR_LOD1
+    2300054: Wheel_RR_LOD2
+    3300000: CityCar03_LOD0
+    3300002: CityCar03_LOD1
+    3300004: CityCar03_LOD2
+    3300006: Door_L_LOD0
+    3300008: Door_L_LOD1
+    3300010: Door_R_LOD0
+    3300012: Door_R_LOD1
+    3300014: DoorRear_L_LOD0
+    3300016: DoorRear_L_LOD1
+    3300018: DoorRear_R_LOD0
+    3300020: DoorRear_R_LOD1
+    3300022: Needle_Fuel_LOD0
+    3300024: Needle_RPM_LOD0
+    3300026: Needle_Speedometer_LOD0
+    3300028: SteeringWheel_LOD0
+    3300030: SteeringWheel_LOD1
+    3300032: Wheel_FL_LOD0
+    3300034: Wheel_FL_LOD1
+    3300036: Wheel_FL_LOD2
+    3300038: Wheel_FR_LOD0
+    3300040: Wheel_FR_LOD1
+    3300042: Wheel_FR_LOD2
+    3300044: Wheel_RL_LOD0
+    3300046: Wheel_RL_LOD1
+    3300048: Wheel_RL_LOD2
+    3300050: Wheel_RR_LOD0
+    3300052: Wheel_RR_LOD1
+    3300054: Wheel_RR_LOD2
+    4300000: CityCar03_LOD1
+    4300002: Door_L_LOD1
+    4300004: Door_R_LOD1
+    4300006: DoorRear_L_LOD1
+    4300008: DoorRear_R_LOD1
+    4300010: SteeringWheel_LOD1
+    4300012: Wheel_FL_LOD1
+    4300014: Wheel_FR_LOD1
+    4300016: Wheel_RL_LOD1
+    4300018: Wheel_RR_LOD1
+    4300020: CityCar03_LOD2
+    4300022: Wheel_FL_LOD2
+    4300024: Wheel_FR_LOD2
+    4300026: Wheel_RL_LOD2
+    4300028: Wheel_RR_LOD2
+    4300030: CityCar03_LOD0
+    4300032: Door_L_LOD0
+    4300034: Door_R_LOD0
+    4300036: DoorRear_L_LOD0
+    4300038: DoorRear_R_LOD0
+    4300040: Needle_Fuel_LOD0
+    4300042: Needle_RPM_LOD0
+    4300044: Needle_Speedometer_LOD0
+    4300046: SteeringWheel_LOD0
+    4300048: Wheel_FL_LOD0
+    4300050: Wheel_FR_LOD0
+    4300052: Wheel_RL_LOD0
+    4300054: Wheel_RR_LOD0
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrakeLight
+    second: {fileID: 2100000, guid: 593d6a2cc87cf6b488ed31bd0f804b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 2dec66236128d674fbff78868093ca0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headlights
+    second: {fileID: 2100000, guid: 81cbd0a8a6b12cb40acfa055750cc1ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: c34c6fd38bf86a047836f60e656e7d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RCA1
+    second: {fileID: 2100000, guid: 2ab0d0f6c12d51e488fd32264e3c86cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReverseLight
+    second: {fileID: 2100000, guid: 927e79c94dee80a4b82b895cfe149c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TurnSignalLeft
+    second: {fileID: 2100000, guid: ebbbbb390bdfb9345bf0af66c5d822cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TurnSignalRight
+    second: {fileID: 2100000, guid: d3af6a6a103be5b429ff6b9629fd5818, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
