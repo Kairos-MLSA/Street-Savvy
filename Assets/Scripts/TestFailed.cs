@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TestFailed : MonoBehaviour
 {
@@ -13,6 +14,11 @@ public class TestFailed : MonoBehaviour
             gameOver.SetActive(true);
             panel.SetActive(true);
             Debug.Log("Game Over");
+            Invoke(nameof(reloadScene), 1f);
+
         }
+    }
+    void reloadScene(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

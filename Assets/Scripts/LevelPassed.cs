@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelPassed : MonoBehaviour
 {
@@ -11,6 +12,14 @@ public class LevelPassed : MonoBehaviour
     private void OnTriggerEnter(Collider other) {
         if (other.gameObject.tag == "Player") {
             timer = targetTime;
+            
+        }
+    }
+
+    private void OnTriggerExit(Collider other) {
+        if (other.gameObject.tag == "Player") {
+            timer = 0f;
+            levelPassedBox.SetActive(false);
         }
     }
     private void Update() {
@@ -21,8 +30,15 @@ public class LevelPassed : MonoBehaviour
             if (timer <= 0f) // Timer finished (reached 0 or below)
             {
                 levelPassedBox.SetActive(true);
+                GameObject.Find("Player Car").GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePositionX | RigidbodyConstraints.FreezePositionY | RigidbodyConstraints.FreezePositionZ | RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
+                Invoke(nameof(loadNextScene), 3f);
+                
             }
         }
+    }
+
+    void loadNextScene(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
     
 }
