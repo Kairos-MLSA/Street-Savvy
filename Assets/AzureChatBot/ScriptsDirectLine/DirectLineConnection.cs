@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Net.WebSockets;
 using System.Text;
@@ -83,7 +83,7 @@ namespace DirectLine
 
             yield return webRequest.SendWebRequest();
 
-            if (webRequest.isNetworkError || webRequest.isHttpError)
+            if (webRequest.result == UnityWebRequest.Result.ConnectionError)
             {
                 Debug.LogError("Can't start conversation: " + webRequest.error);
             }
@@ -156,7 +156,7 @@ namespace DirectLine
 
             yield return webRequest.SendWebRequest();
 
-            if (webRequest.isNetworkError || webRequest.isHttpError)
+            if (webRequest.result == UnityWebRequest.Result.ProtocolError)
             {
                 Debug.LogError("Can't post " + type + " activitiy: " + webRequest.error);
             }

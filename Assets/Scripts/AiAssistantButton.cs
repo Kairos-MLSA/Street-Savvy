@@ -5,14 +5,22 @@ using UnityEngine;
 public class AiAssistantButton : MonoBehaviour
 {
     public GameObject AiTextbox;
+    public GameObject AiTextbox2; // Add this line
     public KeyCode toggleKey = KeyCode.Tab;
+    public KeyCode toggleKey2 = KeyCode.Q; // Add this line
 
-    //if tab button is pressed the AiTextbox will be active
     void Update()
     {
         if (Input.GetKeyDown(toggleKey))
         {
             AiTextbox.SetActive(!AiTextbox.activeSelf);
+            AiTextbox2.SetActive(false); // Add this line
+        }
+
+        if (Input.GetKeyDown(toggleKey2)) // Add this block
+        {
+            AiTextbox2.SetActive(!AiTextbox2.activeSelf);
+            AiTextbox.SetActive(false);
         }
     }
 }
