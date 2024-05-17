@@ -16,7 +16,7 @@ public class LevelPassedGreen : MonoBehaviour
         }
     }
      void loadNextScene(){
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(0);
     }
     
 }

@@ -22,6 +22,8 @@ public class LevelPassedYellow : MonoBehaviour
     private void OnTriggerExit(Collider other) {
         if (other.gameObject.tag == "Player") {
             timer = 0f;
+            yellowLightMaterial.EnableKeyword("_EMISSION");
+            redLightMaterial.DisableKeyword("_EMISSION");
             levelPassedBox.SetActive(false);
         }
     }
@@ -42,6 +44,8 @@ public class LevelPassedYellow : MonoBehaviour
 
     void loadNextScene(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        yellowLightMaterial.EnableKeyword("_EMISSION");
+        redLightMaterial.DisableKeyword("_EMISSION");
     }
     
 }

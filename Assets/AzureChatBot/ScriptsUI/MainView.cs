@@ -11,6 +11,9 @@ public class MainView : MonoBehaviour
     public Text botReplyText;
     public TTS tts;
 
+    private bool isFirstResponse = true;
+
+
 
     private void Start()
     {
@@ -23,11 +26,27 @@ public class MainView : MonoBehaviour
         DirectLine.DirectLineConnection.instance.OnReceivedMessage += AppendBotChatMessage;
     }
 
-    private void AppendBotChatMessage(string message)
+    /*private void AppendBotChatMessage(string message)
     {
         textChat.text += "\n> Bot replied: " + message;
         botReplyText.text = message;
         tts.ButtonClick();
+    }*/
+
+    private void AppendBotChatMessage(string message)
+    {
+        //tts.ButtonClick();
+        if (!isFirstResponse)
+        {
+            textChat.text += "\n> Bot replied: " + message;
+            botReplyText.text = message;
+            tts.ButtonClick();
+        }
+        else
+        {
+            isFirstResponse = false;
+            //tts.ButtonClick();
+        }
     }
 }
 
