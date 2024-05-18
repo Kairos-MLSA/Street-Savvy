@@ -56,7 +56,7 @@ Recognizing that texting with the bot while driving isn't always efficient, Stre
 * **Benefits of Interactive Learning**:
 Interactive elements and gamification significantly increase user engagement compared to traditional methods. The practical applications and AI Driving Assistant ensure a deeper understanding of traffic rules and their importance.
 # ⚒️Architecture and Tech stack
-<img src="[https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/f1b30d166de28b1fefdc6a6783ea39e8f8fd5d60/Assets/Street_Savvy.png](https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/9e9099a30d8c7d241fca1bc92eecd36633195c2c/Assets/street%20savvy.jpg)" ></img>
+<img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/9e9099a30d8c7d241fca1bc92eecd36633195c2c/Assets/street%20savvy.jpg" ></img>
 
 * **C#** : Used to build the front end of the application.
 * **Unity** to generate 3D animated graphics and created a three-level learning module for driving rules
