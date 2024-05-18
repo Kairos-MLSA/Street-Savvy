@@ -3,7 +3,7 @@
 # <p align="center">🚙Street Savvy🚓
 <p align="center">
 This project is for March - May Student Ambassadors AI project <p align="center">
-<img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/25442fa30cf57d6aeeb565cd9ead374acabcd14b/Assets/Street%20Savvy%20logo.%20The%20log.jpg" width="500px" height="500px" alt="logo"></img></p>
+<img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/25442fa30cf57d6aeeb565cd9ead374acabcd14b/Assets/Street%20Savvy%20logo.%20The%20log.jpg" width="400px" height="400px" alt="logo"></img></p>
 <p align="center">Website Link: <br>
 Demo Video Link:<br>
 Presentation Link:</p>
@@ -58,17 +58,17 @@ Interactive elements and gamification significantly increase user engagement com
 # ⚒️Architecture and Tech stack
 <img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/f1b30d166de28b1fefdc6a6783ea39e8f8fd5d60/Assets/Street_Savvy.png" ></img>
 
-* C#: Used to build the front end of the application.
+* **C#** : Used to build the front end of the application.
 * **Unity** to generate 3D animated graphics and created a three-level learning module for driving rules
 * **Microsoft Azure App Service**: Deployed the application for global access.
-Microsoft Azure Conversational AI Service: Created a responsive chatbot to effectively understand text.
+* **Microsoft Azure Conversational AI Service**: Created a responsive chatbot to effectively understand text.
 # 👩‍🏫Challenges and Workarounds
 * Overcoming the limitations of the stage
 * Resolving Dependency Issues in the Azure Function: Actively troubleshoot and systematically debug dependency conflicts or compatibility issues encountered within the Azure function.
 * Managing the limitations of a Q&A chatbot conversation paragraph
     
 # ⚡Potential impact
-“Street Savvy” is an AI powered gamified solution for learning the Indian Traffic rules that is suitable for people with all the ages. It is proved that
+“**Street Savvy**” is an AI powered gamified solution for learning the Indian Traffic rules that is suitable for people with all the ages. It is proved that
 by using gamification, we can increase retention among learners and also can teach with real life scenarios.
 
 **Innovative Learning Experience** - Street Savvy transforms traffic rule education from passive to interactive, making learning engaging and
