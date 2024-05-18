@@ -1,10 +1,13 @@
-# 🚙Street Savvy🚓
-This project is for March - May Student Ambassadors AI project<div>
-<img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/25442fa30cf57d6aeeb565cd9ead374acabcd14b/Assets/Street%20Savvy%20logo.%20The%20log.jpg" width="500px" height="500px" alt="logo"></img>
+
+ 
+# <p align="center">🚙Street Savvy🚓
+<p align="center">
+This project is for March - May Student Ambassadors AI project <p align="center">
+<img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/25442fa30cf57d6aeeb565cd9ead374acabcd14b/Assets/Street%20Savvy%20logo.%20The%20log.jpg" width="500px" height="500px" alt="logo"></img></p>
 
 
 
-# Details  
+# 🙌Details  
 👨‍🎓👩‍🎓Kairos Team Members👨‍🎓👩‍🎓<br>
 
 Sarosij Ghosh Ray (Team Lead)
@@ -23,32 +26,32 @@ Teaching traffic rules at a young age instills good habits that children carry i
 effectively learn about the traffic rules? Popular choices of teaching about the traffic rules are – through videos, documentations or workshops
 held by Government or any organizations. But there are some problems with this approach :
 
-Monotonous Learning – These approach is often very monotonous and fails to engage. Lack of interactivity leads the learners to lose interest
+* Monotonous Learning – These approach is often very monotonous and fails to engage. Lack of interactivity leads the learners to lose interest
 very quickly. Also, passive viewing doesn’t encourage active participation or critical thinking.
 
-Low Retention and Engagement - Studies show that people retain only 10-20% of what they read or hear. Also, lack of interactive elements
+* Low Retention and Engagement - Studies show that people retain only 10-20% of what they read or hear. Also, lack of interactive elements
 leads to disinterest.
 
-Lack of Real-time Feedback and Interaction - Traditional methods do not provide instant feedback on the learner's understanding or
+* Lack of Real-time Feedback and Interaction - Traditional methods do not provide instant feedback on the learner's understanding or
 mistakes. Delayed correction can reinforce incorrect behaviours or misunderstandings.
 
-Absence of Practical Scenarios - Most traditional methods focus on theoretical knowledge without practical application. Real-world
+* Absence of Practical Scenarios - Most traditional methods focus on theoretical knowledge without practical application. Real-world
 scenarios and simulations help in better understanding and applying traffic rules. Learning in context (e.g., simulations of actual driving
 situations) improves comprehension and recall.
 # 🔑Key Functionalities
-Practical Scenarios and Simulation:
+* Practical Scenarios and Simulation:
 Street Savvy offers practical scenarios that simulate real-life traffic situations, helping players apply their knowledge. Levels are designed to cover basic to advanced traffic rules, ensuring comprehensive learning.
 
-Voice-Enabled AI Assistant:
+* Voice-Enabled AI Assistant:
 Street Savvy features a built-in AI Assistant that functions like a personal driving assistant. It notifies the driver about traffic signals and lights, providing advice on how to handle these scenarios.
 
-AI Chatbot:
+* AI Chatbot:
 For drivers who have any confusion or want to know additional details regarding any traffic rule, they can ask the bot for insights.
 
-Voice Interaction with the Chatbot:
+* Voice Interaction with the Chatbot:
 Recognizing that texting with the bot while driving isn't always efficient, Street Savvy includes a feature that allows players to talk to the bot and receive voice responses.
 
-Benefits of Interactive Learning:
+* Benefits of Interactive Learning:
 Interactive elements and gamification significantly increase user engagement compared to traditional methods. The practical applications and AI Driving Assistant ensure a deeper understanding of traffic rules and their importance.
 # ⚒️Architecture and Tech stack
 <img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/f1b30d166de28b1fefdc6a6783ea39e8f8fd5d60/Assets/Street_Savvy.png" ></img>
