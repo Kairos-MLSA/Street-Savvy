@@ -3,7 +3,7 @@
 # <p align="center">🚙Street Savvy🚓
 <p align="center">
 This project is for March - May Student Ambassadors AI project <p align="center">
-<img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/25442fa30cf57d6aeeb565cd9ead374acabcd14b/Assets/Street%20Savvy%20logo.%20The%20log.jpg" width="400px" height="400px" alt="logo"></img></p>
+<img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/c46f5231c83ad011711b557a0ab2168c072dbeed/Assets/Street%20Savvy%20logo.%20The%20log.jpg" width="400px" height="400px" alt="logo"></img></p>
 <p align="center">Website Link: <br>
 Demo Video Link:<br>
 Presentation Link:</p>
