@@ -23,75 +23,78 @@ Pryor Simon
 #  📝Theme
 The importance of traffic rules and road safety is universally acknowledged, underscoring the need for early education and continuous learning through engaging methods like videos, documentation, and workshops to instill lifelong good habits and ensure road safety for all.
 # 🌵Problem statement
- Traffic rules and road safety is such an important topic that it is taught to us from an early age in not only India but also in most countries.
-Teaching traffic rules at a young age instills good habits that children carry into adulthood. But no matter the age, how can one individual
-effectively learn about the traffic rules? Popular choices of teaching about the traffic rules are – through videos, documentations or workshops
-held by Government or any organizations. But there are some problems with this approach :
+ Problem Statement: 
 
-* **Monotonous Learning** – These approach is often very monotonous and fails to engage. Lack of interactivity leads the learners to lose interest
-very quickly. Also, passive viewing doesn’t encourage active participation or critical thinking.
+Our project addresses the critical issue of road safety and driver education in India. Despite existing regulations, India continues to have one of the highest rates of traffic accidents and fatalities in the world. A major contributing factor is the lack of comprehensive understanding and adherence to traffic rules among drivers. But why is this?
 
-* **Low Retention and Engagement** - Studies show that people retain only 10-20% of what they read or hear. Also, lack of interactive elements
-leads to disinterest.
 
-* **Lack of Real-time Feedback and Interaction** - Traditional methods do not provide instant feedback on the learner's understanding or
-mistakes. Delayed correction can reinforce incorrect behaviours or misunderstandings.
+* **Lack of Engagement in Traditional Teaching Methods** : Traditional methods of teaching traffic rules and road safety, such as documentation, static lessons, or workshops, lack effectiveness in engaging learners.
 
-* **Absence of Practical Scenarios** - Most traditional methods focus on theoretical knowledge without practical application. Real-world
-scenarios and simulations help in better understanding and applying traffic rules. Learning in context (e.g., simulations of actual driving
-situations) improves comprehension and recall.
+* **Absence of Interactivity** : Current driver education programs often lack interactivity and real-time feedback, both of which are essential for effective learning.
+
+* **Absence of Real-Life Scenarios** : The education provided does not focus on real-life scenarios that can occur on the road, which is crucial for practical application and preparedness.
+
+* **Cost Issue** : The traditional way of learning to drive can be costly and sometimes is not affordable for most people. 
+
+* **Kids do not feel engaged** : Basic traffic rules and road safety have been taught to kids from an early age, but the methods used are dull and non-interactive.
+
 # 🔑Solution
-* **Practical Scenarios and Simulation**:
-Street Savvy offers practical scenarios that simulate real-life traffic situations, helping players apply their knowledge. Levels are designed to cover basic to advanced traffic rules, ensuring comprehensive learning.
+Introducing “Street Savvy” an interactive solution to learn about the traffic rules powered by Azure AI Services. This solution tackles all the prevalent problems head-on by harnessing the power of Azure AI services and Unity Engine. Street Savvy provides the following features: 
 
-* **Voice-Enabled AI Assistant**:
-Street Savvy features a built-in AI Assistant that functions like a personal driving assistant. It notifies the driver about traffic signals and lights, providing advice on how to handle these scenarios.
+* **Engaging learning**: Street Savvy is a gamified interactive simulation to educate people about the Indian Traffic Rules.
 
-* **AI Chatbot**:
-For drivers who have any confusion or want to know additional details regarding any traffic rule, they can ask the bot for insights.
+* **AI Assistant** : Street Savvy has a built-in AI assistant that works as a personalised driving assistant. It feels like the player is driving with a driving assistant sitting beside them who will give guidance and teach the traffic rules.
 
-* **Voice Interaction with the Chatbot**:
-Recognizing that texting with the bot while driving isn't always efficient, Street Savvy includes a feature that allows players to talk to the bot and receive voice responses.
+* **Chat and Learn** : While driving, if the player has any additional questions about specific traffic rules, they can directly chat with the bot anytime and by utilising Azure AI Bot services, the player will get instant answers.
 
-* **Benefits of Interactive Learning**:
-Interactive elements and gamification significantly increase user engagement compared to traditional methods. The practical applications and AI Driving Assistant ensure a deeper understanding of traffic rules and their importance.
-# ⚒️Architecture and Tech stack
+* **Voice Interaction** : Harnessing the power of Azure AI Speech, the bot can also talk and understand what the player is saying so the player can have a conversation with the bot while learning about the traffic rules.
+
+* **Real-Life Scenarios** : Each level of Street Savvy aims to focus on real-life scenarios that can occur on the road.
+
+* **Cost-Effective Solution** : Traditional driver education can be expensive and time-consuming. Street Savvy provides an AI-powered alternate solution that can both save time and money.
+
+* **Interactive Learning for Kids** : Street Savvy can also serve as an educational tool for children, helping them learn about traffic signals and rules from a young age. By making traffic education fun and interactive, we aim to instil good habits early on, fostering a generation of more informed and responsible road users.
+
+# ⚒️ Tech stack
 <img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/9e9099a30d8c7d241fca1bc92eecd36633195c2c/Assets/street%20savvy.jpg" ></img>
+The following tech stacks have been used to create the application - 
 
-* **C#** : Used to build the front end of the application.
-* **Unity** to generate 3D animated graphics and created a three-level learning module for driving rules
-* **Microsoft Azure App Service**: Deployed the application for global access.
-* **Microsoft Azure Conversational AI Service**: Created a responsive chatbot to effectively understand text.
-# 👩‍🏫Challenges and Workarounds
-* Overcoming the limitations of the stage
-* Resolving Dependency Issues in the Azure Function: Actively troubleshoot and systematically debug dependency conflicts or compatibility issues encountered within the Azure function.
-* Managing the limitations of a Q&A chatbot conversation paragraph
+* **Unity Engine** : Street Savvy is made in Unity Engine using C#.
+
+* **Azure AI Bot Services** : The chatbot is made using the Azure AI Bot Services.
+
+* **Azure AI-Language** : Azure AI-Language is used for the question answering.
+
+* **Azure AI Speech** : Azure AI Speech gives our bot the ability to speak and understand the utterance of the user.
+
     
-# ⚡Potential impact
-“**Street Savvy**” is an AI powered gamified solution for learning the Indian Traffic rules that is suitable for people with all the ages. It is proved that
-by using gamification, we can increase retention among learners and also can teach with real life scenarios.
+# ⚡Social Impact / Novelty
+Street Savvy is an Azure AI-powered traffic rules learning solution. It holds the ability to create several social impacts such as -
 
-**Innovative Learning Experience** - Street Savvy transforms traffic rule education from passive to interactive, making learning engaging and
-effective.
+* **Enhanced Learning Experience** : Street Savvy revolutionizes the process of learning traffic rules by offering an interactive and engaging solution. Traditional methods like videos and documentation often lack interactivity, making learning mundane and less effective. With Street Savvy, users immerse themselves in a dynamic learning environment that enhances retention and understanding.
 
-**AI Integration** - Provides real-time guidance, enhancing the learning process through immediate information and answers.
+* **Accessible Education** : By leveraging AI technology, Street Savvy democratizes access to vital knowledge about traffic rules. It eliminates barriers to learning by providing a user-friendly interface accessible to anyone with a smartphone or computer. This inclusivity promotes safer roads by empowering individuals from diverse backgrounds to understand and adhere to traffic regulations.
 
-**Real-World Scenarios** - Utilizes practical simulations to teach traffic rules, helping users apply their knowledge in real-life situations.
+* **Real-World Application** : Unlike theoretical approaches to learning, Street Savvy bridges the gap between knowledge acquisition and real-world application. Through simulated scenarios and interactive challenges, users gain practical insights into navigating traffic safely. This hands-on learning experience equips individuals with the skills and awareness needed to become responsible drivers and pedestrians.
 
-**Inclusivity** - Designed for all ages, making it a versatile tool that benefits children, new drivers, and experienced drivers alike.
+* **Behavioural Change** : Street Savvy goes beyond imparting knowledge; it catalyzes behavioral change. By integrating an AI assistant that interacts with users in real-time, the solution reinforces positive habits and alerts users to potential violations. This personalized feedback fosters a culture of accountability and encourages users to adopt safer behaviors on the road, ultimately reducing accidents and promoting community well-being.
 
-**Enhanced Engagement and Retention** - Interactive gameplay and gamification significantly improve user engagement and information
-retention compared to traditional methods.
+# 🎯Future Scopes
+Currently Street Savvy is in the prototype phase. We aim to expand the product and make it accessible to a broader audience.
 
-**Future Expansion** - Starting with fundamental traffic signals, Street Savvy plans to expand to cover more complex traffic rules, ensuring
-comprehensive education. Future expansions will also include a first-person driving experience VR support.
-# 🎯Go-to-Market
-**Integration with Traffic Authorities' Platforms**: Collaborate with traffic authorities to integrate Street Savvy into their official platforms or create a dedicated section for Street Savvy. This integration ensures maximum visibility and accessibility for target users, allowing them to easily access Street Savvy's learning capabilities and insights while engaging with traffic authority resources.
+* **More levels** : In the future, more levels will be added that will replicate more real-life traffic scenarios.
 
-**Adoption Campaign**: Conduct a comprehensive marketing and adoption campaign to raise awareness about Street Savvy's capabilities among target users. Collaborate with traffic authorities and educational institutions to promote Street Savvy through various channels, including official communications, social media, newsletters, and community events. Highlight the benefits of Street Savvy, such as enhanced learning, increased retention, and improved practical knowledge, to attract and engage users.
+* **Availability on Mobile Devices and Browsers** : Street Savvy will come to Android and IOS devices and also be playable in browsers for much broader accessibility
+
+* **VR**: VR support and first person driving will more Street Savvy for much more immersive experience.
+
+* **AI-Powered Analytics** : After each level is completed the player will get personalised AI powered analytics of his driving skills and where they can be improved will be also advised and tracked by the AI.
 
 # ⚙️Built With
 
+![Static Badge](https://img.shields.io/badge/Azure%20AI%20Bot%20Services-red)
+![Static Badge](https://img.shields.io/badge/Azure%20AI%20Language-pink)
+![Static Badge](https://img.shields.io/badge/Azure%20AI%20Speech-lightgrey)
 
 ![Static Badge](https://img.shields.io/badge/Speach%20SDK%20-%20blue)
 ![Static Badge](https://img.shields.io/badge/Q%26A%20Bot%20-%20skyblue)
