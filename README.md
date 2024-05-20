@@ -6,7 +6,7 @@ This project is for March - May Student Ambassadors AI project <p align="center"
 <img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/c46f5231c83ad011711b557a0ab2168c072dbeed/Assets/Street%20Savvy%20logo.%20The%20log.jpg" width="400px" height="400px" alt="logo"></img></p>
 <p align="center">Download link :<br> Just Download the zip file -> https://arin1.itch.io/streetsavvy  <br> <br>
 Demo Video Link: https://youtu.be/12CrMcJE-Tc?si=Wq62WERrE5rKwguB <br><br>
-Presentation Link:</p>
+Presentation Link:</p> https://stdntpartners-my.sharepoint.com/:p:/g/personal/sarosij_ghoshray_studentambassadors_com/EdpKxvJk3JpOrF8yI5-U7U4BEW04z2a-gbgQmrLTSO2CdA?e=jnWj72
 
 
 # 🙌Details  
