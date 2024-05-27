@@ -55,7 +55,8 @@ Introducing “Street Savvy” an interactive solution to learn about the traffi
 
 * **Interactive Learning for Kids** : Street Savvy can also serve as an educational tool for children, helping them learn about traffic signals and rules from a young age. By making traffic education fun and interactive, we aim to instil good habits early on, fostering a generation of more informed and responsible road users.
 
-# ⚒️ Tech stack
+# ⚒️ Tech stack!
+
 <img src="https://raw.githubusercontent.com/Kairos-MLSA/Street-Savvy/9e9099a30d8c7d241fca1bc92eecd36633195c2c/Assets/street%20savvy.jpg" ></img>
 The following tech stacks have been used to create the application - 
 
@@ -78,6 +79,12 @@ Street Savvy is an Azure AI-powered traffic rules learning solution. It holds th
 * **Real-World Application** : Unlike theoretical approaches to learning, Street Savvy bridges the gap between knowledge acquisition and real-world application. Through simulated scenarios and interactive challenges, users gain practical insights into navigating traffic safely. This hands-on learning experience equips individuals with the skills and awareness needed to become responsible drivers and pedestrians.
 
 * **Behavioural Change** : Street Savvy goes beyond imparting knowledge; it catalyzes behavioral change. By integrating an AI assistant that interacts with users in real-time, the solution reinforces positive habits and alerts users to potential violations. This personalized feedback fosters a culture of accountability and encourages users to adopt safer behaviors on the road, ultimately reducing accidents and promoting community well-being.
+  
+#  🎮Methodology
+
+![basic workflow (1)](https://github.com/Kairos-MLSA/Street-Savvy/assets/121309862/7aebbd06-d821-483a-a71f-d8b0ccf0b18b)
+
+
 
 # 🎯Future Scopes
 Currently Street Savvy is in the prototype phase. We aim to expand the product and make it accessible to a broader audience.
@@ -100,3 +107,5 @@ Currently Street Savvy is in the prototype phase. We aim to expand the product a
 ![Static Badge](https://img.shields.io/badge/Q%26A%20Bot%20-%20skyblue)
 ![Static Badge](https://img.shields.io/badge/c%23%20-%20purple)
 ![Static Badge](https://img.shields.io/badge/Unity%20-%20black)
+
+
