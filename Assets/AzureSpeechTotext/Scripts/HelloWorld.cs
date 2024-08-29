@@ -36,7 +36,7 @@ public class HelloWorld : MonoBehaviour
     {
         // Creates an instance of a speech config with specified subscription key and service region.
         // Replace with your own subscription key and service region (e.g., "westus").
-        var config = SpeechConfig.FromSubscription("fe3dc0014c714e22b1b761a1a36b918e", "eastus");
+        var config = SpeechConfig.FromSubscription("", "eastus");
 
         // Make sure to dispose the recognizer after use!
         using (var recognizer = new SpeechRecognizer(config))
