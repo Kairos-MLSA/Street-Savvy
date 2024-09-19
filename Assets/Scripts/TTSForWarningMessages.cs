@@ -20,7 +20,7 @@ public class TTSForWarningMessages : MonoBehaviour
 
 
     // Replace with your own subscription key and service region (e.g., "westus").
-    private const string SubscriptionKey = "48ddb545e1da45a78b5546b20b568095";
+    private const string SubscriptionKey = "";
     private const string Region = "eastus";
 
     private const int SampleRate = 24000;
